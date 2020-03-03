@@ -43,7 +43,7 @@ void startLight(){
 
     while(cell.Value() > 0.8){}
 
-    LCD.WriteLine("Light Detected. Drew is our god.");
+    LCD.WriteLine("Light Detected. Drew is legendary.");
 
 }
 
